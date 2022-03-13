@@ -1,0 +1,23 @@
+{
+  "name": "@bleskomat/open-sans-fontface",
+  "version": "1.5.0",
+  "description": "OpenSans web font in multiple file formats and css",
+  "main": "./css/open-sans-fontface.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samotari/open-sans-fontface.git"
+  },
+  "author": {
+    "name": "Charles Hill",
+    "email": "chill@degreesofzero.com"
+  },
+  "contributors": [],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/samotari/open-sans-fontface/issues"
+  },
+  "homepage": "https://github.com/samotari/open-sans-fontface#readme"
+}
